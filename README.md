@@ -1,2 +1,2 @@
 # TODO-task-application
-adding,editing and deleting tasks
+adding,editing and deleting task
